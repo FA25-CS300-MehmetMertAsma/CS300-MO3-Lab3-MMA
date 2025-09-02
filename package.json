@@ -1,0 +1,23 @@
+{
+  "name": "cs300-mo3-lab3-mma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FA25-CS300-MehmetMertAsma/CS300-MO3-Lab3-MMA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FA25-CS300-MehmetMertAsma/CS300-MO3-Lab3-MMA/issues"
+  },
+  "homepage": "https://github.com/FA25-CS300-MehmetMertAsma/CS300-MO3-Lab3-MMA#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
